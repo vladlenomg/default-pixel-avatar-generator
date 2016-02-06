@@ -31,7 +31,7 @@ pixelgenerator.main(msg='600 x 200', size = (600, 200), fontsize=70, rainbow = T
 
 | rainbow = True  | rainbow = False |
 | ------------- | ------------- |
-| <img src="https://raw.githubusercontent.com/vladlenomg/default-pixel-avatar-generator/master/screenshots/rainbow true.png"/>  | <img src="https://raw.githubusercontent.com/vladlenomg/default-pixel-avatar-generator/master/screenshots/rainbow false.png"/> |
+| <img src="https://raw.githubusercontent.com/vladlenomg/default-pixel-avatar-generator/master/screenshots/rainbow true.png" height="250" width="250"/>  | <img src="https://raw.githubusercontent.com/vladlenomg/default-pixel-avatar-generator/master/screenshots/rainbow false.png" height="250" width="250"/> |
 
 
 ##palette
