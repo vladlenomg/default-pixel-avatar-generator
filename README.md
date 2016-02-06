@@ -8,13 +8,38 @@
 
 # Usage
 
+```python
+pixelgenerator.main(name = 'image', palette = 'purple drank', size = (500, 500), pixel = 20, rainbow = False, msg='', fontsize=250)
 ```
-main(name = 'image', palette = 'purple drank', size = (500, 500), pixel = 20, rainbow = False, msg='', fontsize=250)
+
+##size
+
+```python
+size = (width, height)
+
+```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vladlenomg/default-pixel-avatar-generator/master/screenshots/600 x 200.png"/>
+</p>
+
+```python
+pixelgenerator.main(msg='600 x 200', size = (600, 200), fontsize=70, rainbow = True) 
 ```
 
 ##rainbow
+`rainbow = True` or `rainbow = False`
+
+| rainbow = True  | rainbow = False |
+| ------------- | ------------- |
+| <img src="https://raw.githubusercontent.com/vladlenomg/default-pixel-avatar-generator/master/screenshots/rainbow true.png"/>  | <img src="https://raw.githubusercontent.com/vladlenomg/default-pixel-avatar-generator/master/screenshots/rainbow false.png"/> |
+
 
 ##palette
+```python
+['malachite', 'deep ocean', 'ocean' , 'weed', 'palette 5', 'palette 6', 'palette 7', 'purple drank', 'hot pink', 'peach',
+'fire', 'gold', 'palette 13', 'sky', 'dollar', 'palette 16', 'palette 17', 'gray', 'palette 19', 'palette 20', 'palette 21',
+'palette 22', 'palette 23', 'palette 24', 'palette 25', 'palette 26', 'palette 27', 'fire on the water']
+```
 
 ###malachite
 <p align="center">
@@ -160,8 +185,15 @@ main(name = 'image', palette = 'purple drank', size = (500, 500), pixel = 20, ra
 
 ##msg
 
-
-
+```python
+pixelgenerator.main(msg='git', fontsize=350, rainbow = True)
+```
 <p align="center">
-  <img src="s"/>
+  <img src="https://raw.githubusercontent.com/vladlenomg/default-pixel-avatar-generator/master/screenshots/git.png"/>
+</p>
+
+
+#python is awesome
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vladlenomg/default-pixel-avatar-generator/master/screenshots/python is awesome.png"/>
 </p>
