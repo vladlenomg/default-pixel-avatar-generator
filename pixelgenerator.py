@@ -99,6 +99,3 @@ def main(name = 'image', palette = 'purple drank', size = (500, 500), pixel = 20
 	
 	draw_text(im, msg, fontsize, palette, W, H)
 	im.save(str(name)+ ".png", "PNG")
-
-
-main(name='test')
