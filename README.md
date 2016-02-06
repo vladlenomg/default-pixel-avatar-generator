@@ -1,8 +1,10 @@
 # default-pixel-avatar-generator
 
-![alt tag](https://raw.githubusercontent.com/vladlenomg/default-pixel-avatar-generator/master/screenshots/g.png)
-![alt tag](https://raw.githubusercontent.com/vladlenomg/default-pixel-avatar-generator/master/screenshots/i.png)
-![alt tag](https://raw.githubusercontent.com/vladlenomg/default-pixel-avatar-generator/master/screenshots/t.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vladlenomg/default-pixel-avatar-generator/master/screenshots/g.png" height="250" width="250"/>
+  <img src="https://raw.githubusercontent.com/vladlenomg/default-pixel-avatar-generator/master/screenshots/i.png" height="250" width="250"/>
+  <img src="https://raw.githubusercontent.com/vladlenomg/default-pixel-avatar-generator/master/screenshots/t.png" height="250" width="250"/>
+</p>
 
 # Usage
 
