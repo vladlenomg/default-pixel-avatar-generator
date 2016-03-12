@@ -1,4 +1,4 @@
-# default-pixel-avatar-generator!
+# default-pixel-avatar-generator
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vladlenomg/default-pixel-avatar-generator/master/screenshots/g.png" height="250" width="250"/>
